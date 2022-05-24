@@ -1,3 +1,6 @@
+# This fork should add a cutom path save feature and dont rely to pcgamingwiki
+## Current state = Unimplemented
+
 # Ludusavi for Playnite
 This repository contains a [Playnite 8+](https://playnite.link) plugin to
 back up your save data using [Ludusavi](https://github.com/mtkennerly/ludusavi).
